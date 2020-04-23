@@ -1,7 +1,7 @@
 # PaginaWeb
-Integrantes 
-Alarid Guzman Abraham 
-Leon Mendoza Esteban Federico
-Martinez Martinez Marco Antonio 
-Mendoza Valencia Xania Elizabeth 
+Integrantes\n 
+Alarid Guzman Abraham\n 
+Leon Mendoza Esteban Federico\n
+Martinez Martinez Marco Antonio\n 
+Mendoza Valencia Xania Elizabeth\n 
 Roa Patlan Brandon Celso 
