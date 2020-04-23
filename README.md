@@ -1,5 +1,4 @@
 # PaginaWeb
-Objetos Favoritos 
 Integrantes 
 Alarid Guzman Abraham 
 Leon Mendoza Esteban Federico
