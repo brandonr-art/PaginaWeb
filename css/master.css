@@ -1,14 +1,15 @@
 html {
-    background-color: #023226;
+    background-color: #01130e;
   }
   
   h1 {
     color: whitesmoke;
     margin-left: 20px;
     font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
   h3 {
-    color: n#023226;
+    color: #023226;
     margin-left: 50px;
   }
 
@@ -25,6 +26,7 @@ html {
     padding-left: 30px;
     text-align:justify;
     resize: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
   #jumbo{
@@ -41,7 +43,7 @@ html {
   }
   #cuerpo {
       position: relative;
-      background-color:white;
+      background-color:#bdfdfc;
       padding-top: 20px;
       padding-right: 30px;
       padding-bottom: 20px;
