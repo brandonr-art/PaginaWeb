@@ -1,0 +1,49 @@
+html {
+    background-color: #023226;
+  }
+  
+  h1 {
+    color: whitesmoke;
+    margin-left: 20px;
+    font-weight: bold;
+  }
+  h3 {
+    color: n#023226;
+    margin-left: 50px;
+  }
+
+  p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
+    border: 1px solid #023226;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    text-align:justify;
+    resize: none;
+  }
+
+  #jumbo{
+      background-color: #023226;
+      padding-top: 90px;
+      padding-right: 30px;
+      padding-bottom: 20px;
+      padding-left: 30px;
+      height: 250px;
+      background-image: url(../img/ghost.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-position-y: -110px;
+  }
+  #cuerpo {
+      position: relative;
+      background-color:white;
+      padding-top: 20px;
+      padding-right: 30px;
+      padding-bottom: 20px;
+      
+  }
